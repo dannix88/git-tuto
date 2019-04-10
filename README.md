@@ -13,3 +13,6 @@ this is a test
 ## How
 
 this is a test
+
+### Copyright
+ 2019 Git Training
