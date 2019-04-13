@@ -23,7 +23,7 @@ Location: Ciudad, Comunidad, País.
 /* THANKS */
 
 							
-Name: nombre o url
+To all!
 
 						
                  
