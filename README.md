@@ -1,6 +1,6 @@
 # Starter
 
-This is a simple website project test
+This is a simple website project test. Adding more text for rebasing example.
 
 ## Introduction
 
