@@ -1,7 +1,7 @@
 # Starter
 
-This is a simple website project test. Adding more text for rebasing example, then
-more changes from feature branch.
+This is a simple website project test. Adding more text for rebasing example.
+Updating line
 
 ## Introduction
 
