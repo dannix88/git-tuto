@@ -15,4 +15,4 @@ this is a test
 Fork this
 
 ### Copyright
- 2019 Git Training
+ 2019 Git Training, all rights reserved.
